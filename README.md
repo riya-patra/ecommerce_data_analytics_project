@@ -1,1 +1,1 @@
-# ecommerce_data_analytics_project
+# Ecommerce_data_analytics_project
