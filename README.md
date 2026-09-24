@@ -63,4 +63,4 @@ decodelabs-data-analytics-bootcamp/
 ---
 
 ## About
-These projects were completed as part of the DecodeLabs Data Analytics Bootcamp, building foundational skills in data cleaning, exploratory data analysis, and SQL for a Data Analyst / AI-GenAI Engineer career path.
+These projects were completed as part of the DecodeLabs Data Analytics Bootcamp, building foundational skills in data cleaning, exploratory data analysis, and SQL for a Data Analyst career path.
