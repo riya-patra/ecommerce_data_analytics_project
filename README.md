@@ -48,7 +48,7 @@ Used SQL (MySQL Workbench 8.0) to extract business insights from the same orders
 
 ## Repository Structure
 ```
-decodelabs-data-analytics-bootcamp/
+ecommerce-data-analytics-project/
 ├── README.md                      ← this file
 ├── project1-data-cleaning/
 │   └── README.md
