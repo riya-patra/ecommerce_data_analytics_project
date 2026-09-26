@@ -28,7 +28,7 @@ Performed EDA on the e-commerce orders dataset (~105KB, thousands of rows) cover
 - Missing values present in `CouponCode` and `ReferralSource`
 - `PaymentMethod` had inconsistent labeling (e.g. "Online" vs "Credit Card") but no missing values
 
-**Details:** see ![`project2-eda/README.md`](./project2-eda/README.md)
+**Details:** see [`project2-eda/README.md`](./project2-eda/README.md)
 
 ---
 
@@ -42,7 +42,7 @@ Used SQL (MySQL Workbench 8.0) to extract business insights from the same orders
 - Tablets have the highest return rate (24%)
 - Top-spending customers are one-time buyers, not repeat customers
 
-**Details:** see ![`project3-sql-analysis/README.md`](./project3-sql-analysis/README.md)
+**Details:** see [`project3-sql-analysis/README.md`](./project3-sql-analysis/README.md)
 
 ---
 
