@@ -6,9 +6,9 @@ This repository contains three progressive data analytics projects completed as 
 
 | Project | Focus | Tool(s) |
 |---|---|---|
-| [Project 1](./project1-data-cleaning) | Data Cleaning & Preparation | VS Code / Python |
-| [Project 2](./project2-eda) | Exploratory Data Analysis (EDA) | Python (pandas), Microsoft Copilot |
-| [Project 3](./project3-sql-analysis) | SQL Data Analysis | MySQL Workbench 8.0 |
+| [Project 1](./dclab_project%201.zip) | Data Cleaning & Preparation | VS Code / Python |
+| [Project 2](./dclab_project%202.zip) | Exploratory Data Analysis (EDA) | Python (pandas), Microsoft Copilot |
+| [Project 3](./dclab_project%203.zip) | SQL Data Analysis | MySQL Workbench 8.0 |
 
 ---
 
